@@ -1,0 +1,19 @@
+		(in cm)				length = 10
+		(in cm)			       breadth = 10
+		(in cm)				height = 10
+		(in um)	    	 range of thread width = 30-50
+		(in um)		 range of thread pitch = 250-300
+		(in nC/m)    charge density of threads = 0.02
+		        parameter for exponential dist = 100
+		(in um)	     range for particle radius = 0.3-1
+		(in m/s)   range for speed of particle = 1-2
+		(in nC)		   Charge of particles = -2
+		(in ug)  	     mass of particles = 0.2
+				    number of particle = 10000
+
+
+Standard Units for 
+length - um
+mass - ug
+charge - nC
+time - s

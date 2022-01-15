@@ -1,0 +1,16 @@
+		(in cm)	        	length = 10 
+                (in cm)                 bredth = 10 
+                (in um)           thread width = 2
+		(in um)	            thread gap = 10
+		(in nC/m)	charge density = 9
+		(in um)        particle radius = 0.1
+			      no. of particles = 1000
+		(in cm)  	  z coordinate = 1
+		(in ug)     mass of a particle = 2
+		(in nC)   charge of a particle = 0.02
+		(in m/s)    speed of particle = 10
+
+
+
+Micrometer is taken as standard unit for length, nanocoulomb for charge, micrograms for mass.
+"thread gap" if the distance from right end of one to the left end of the other.

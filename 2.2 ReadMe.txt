@@ -1,0 +1,17 @@
+The present code conisders 2 effects
+1) Interception
+2) Electric Effects
+
+Assumptions involved in electric Effects:-
+
+1) Fibers are infinetely long.
+2) Fibers are uniformly charged and cylindrical.
+   (Since fibers are uniformluy charged shell theorem is used to simplify the model)
+3) The potential at a point is only due to 20 nearby fibers.
+
+
+
+The model:
+	Grid with fibers of thickness and thread pitch varying according to mentioned distribution along X and Y axis.
+	Particles radius also varying as per mentioned distribution.
+	  
